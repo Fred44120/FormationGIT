@@ -2,4 +2,5 @@ test1
 ligne1
 ligne2
 end
+essai gitignore
 exit
